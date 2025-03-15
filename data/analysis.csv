@@ -1,0 +1,8 @@
+category,product_name,discount_percentage,current_price,original_price,product_image_url
+smartphone,iphone 7,10,20,15,uploads/iphone_7_b74760cb.jpg
+furniture,fan,20,80,100,uploads/fan_5f67b100.jpg
+cutlery,forks,10,9,10,uploads/forks_5ada01e3.jpg
+clothes,sneakers,20,800,1000,uploads/sneakers_15582d17.webp
+toy,lego,0,35,35,uploads/lego_95539bf3.png
+book,cambridge,1,99,100,uploads/cambridge_2d2444ca.png
+book,cambridge,1,99,100,uploads/cambridge_045b1b94.png
